@@ -31,3 +31,7 @@ This is my first Java project to practice:
 - Conditionals
 - Game logic
 - Object-oriented programming basics
+
+
+## Update
+Please read UPDATE.MD for version 1.1.
